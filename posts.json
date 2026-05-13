@@ -14,7 +14,7 @@
       "date": "18 April 2026",
       "readTime": "6 min read",
       "excerpt": "In 2026, 35% of UK SMEs have adopted AI. But 33% have no plans whatsoever. This isn't caution, it's being left behind. Here's what inaction is actually costing you right now.",
-      "url": "post-1.html"
+      "url": "/blog/post.html?slug=post-1"
     },
     {
       "slug": "post-2",
@@ -22,7 +22,7 @@
       "date": "17 April 2026",
       "readTime": "7 min read",
       "excerpt": "A team gets excited. They invest time and money. And then nothing happens. The tool sits unused. Here's why, and more importantly, how to avoid it.",
-      "url": "post-2.html"
+      "url": "/blog/post.html?slug=post-2"
     },
     {
       "slug": "post-3",
@@ -30,7 +30,7 @@
       "date": "16 April 2026",
       "readTime": "8 min read",
       "excerpt": "Enterprise firms are building them. But they're missing the SME opportunity. Here's what an AI knowledge base actually does, and why the window to act is now.",
-      "url": "post-3.html"
+      "url": "/blog/post.html?slug=post-3"
     }
   ]
 }
