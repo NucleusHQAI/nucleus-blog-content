@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "post-4",
+      "title": "Why Off-the-Shelf AI Doesn't Fit Most Businesses",
+      "date": "13 May 2026",
+      "readTime": "5 min read",
+      "excerpt": "Generic AI tools look impressive in demos but end up expensive and barely used. The businesses getting real value aren't using the flashiest tools — they're using focused solutions that fit the way they already work.",
+      "url": "post.html?slug=post-4"
+    },
+    {
       "slug": "post-1",
       "title": "Why 33% of SMEs Have Zero AI Plans (And Why It's Costing You)",
       "date": "18 April 2026",
