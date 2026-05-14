@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "what-is-agentic-ai-and-why-it-matters",
+      "title": "What Is Agentic AI and Why It's the Biggest Shift Your Business Will Face This Year",
+      "date": "14 May 2026",
+      "readTime": "4 min read",
+      "excerpt": "Agentic AI is dominating the headlines. Here is what it actually means for your business, in plain English.",
+      "url": "/blog/post.html?slug=what-is-agentic-ai-and-why-it-matters"
+    },
+    {
       "slug": "post-4",
       "title": "Why Off-the-Shelf AI Doesn't Fit Most Businesses",
       "date": "13 May 2026",
