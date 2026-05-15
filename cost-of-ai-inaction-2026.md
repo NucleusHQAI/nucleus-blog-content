@@ -4,11 +4,11 @@ But there is another cost that gets far less attention: the cost of not moving a
 
 ## What the Numbers Actually Say
 
-Businesses that have embedded AI into their operations are reporting significant productivity gains. A figure that appears consistently across UK SME surveys is an average monthly saving of around £4,100 per business, against an average tool spend of roughly £120 per month.
+Businesses that have embedded AI into their operations are reporting significant productivity gains. A figure that appears consistently across UK SME surveys is an average monthly saving of around £4,100 per business, against an average tool spend of roughly £120 per month. The broader adoption trend is also clear: [BCC research found AI use among UK SMEs rising from 25% to 35%](https://www.britishchambers.org.uk/news/2025/09/turning-point-as-more-smes-unlock-ai/), with [later research putting active use across UK firms at 54%](https://www.britishchambers.org.uk/news/2026/03/half-of-smes-using-ai-with-limited-headcount-impact-so-far/).
 
 That is not a promise, and individual results vary considerably depending on business type, team size, and which workflows are being automated. But the direction is consistent: relatively small ongoing cost, disproportionate return.
 
-The same surveys show that businesses not yet using AI tools are not just missing those gains. In many sectors they are competing directly against businesses that have them.
+The same surveys show that businesses not yet using AI tools are not just missing those gains. In many sectors they are competing directly against businesses that have them, and [ONS business survey data has also shown AI use steadily increasing across UK businesses](https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/bulletins/businessinsightsandimpactontheukeconomy/2october2025).
 
 ## What Competitors Are Actually Doing
 
@@ -21,7 +21,7 @@ What that typically looks like in practice:
 - Leaner admin functions because recurring tasks run without manual input
 - More time for the owner and senior staff to focus on the work that actually generates revenue
 
-These are not projections. They are the outcomes that structured AI implementation produces when it is approached correctly. The question is not whether this is achievable. It is who in your market gets there first.
+These are not projections. They are the outcomes that structured AI implementation produces when it is approached correctly. McKinsey's 2025 State of AI research found that the highest performers are those [redesigning workflows and scaling AI deliberately](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai), not just experimenting. The question is not whether this is achievable. It is who in your market gets there first.
 
 ## The Compound Effect of Waiting
 
@@ -35,7 +35,7 @@ For a business with four or five members of staff, even a modest productivity im
 
 Beyond the productivity and cost arguments, there is a subtler risk that does not get talked about enough.
 
-Clients and customers are increasingly interacting with businesses that use AI well. Response times are faster. Communications are more consistent. Follow-up happens without anyone needing to remember to do it. As these become the norm in certain sectors, businesses that cannot match them start to feel slower and less responsive, even if the underlying quality of their work is identical.
+Clients and customers are increasingly interacting with businesses that use AI well. Response times are faster. Communications are more consistent. Follow-up happens without anyone needing to remember to do it. As these become the norm in certain sectors, businesses that cannot match them start to feel slower and less responsive, even if the underlying quality of their work is identical. For more on that operational shift, see [what agentic AI means for small businesses](/blog/post.html?slug=what-is-agentic-ai-and-why-it-matters).
 
 This expectation gap does not cause businesses to fail overnight. It causes them to lose deals at the margin, retain slightly fewer clients, and win slightly fewer referrals. Over time, that adds up to something significant.
 

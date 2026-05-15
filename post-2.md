@@ -2,7 +2,7 @@ You've probably heard about an AI project that didn't work out. Maybe you've see
 
 A team gets excited. They invest time and money. They implement a chatbot, or a workflow automation, or some kind of AI-powered analysis tool. And then... nothing happens. The tool sits unused. The process doesn't change. The promised productivity gains never materialise.
 
-This is so common it's almost expected. But it doesn't have to be.
+This is so common it's almost expected. [Gartner has warned that many generative AI projects are abandoned after proof of concept](https://www.gartner.com/en/newsroom/press-releases/2024-07-29-gartner-predicts-30-percent-of-generative-ai-projects-will-be-abandoned-after-proof-of-concept-by-end-of-2025), often because of unclear value, weak data, poor controls, or rising cost. But it doesn't have to be.
 
 The difference between AI projects that work and ones that fail isn't magic. It's knowing what actually goes wrong, and planning around it from day one.
 
@@ -32,7 +32,7 @@ But your team doesn't use it.
 
 This happens because AI projects often require people to change how they work. Maybe they've been handling a process the same way for five years. The AI solution is better in theory, but it requires them to learn something new. It disrupts their workflow. It feels like extra work before it feels like less work.
 
-Without proper onboarding, adoption, and incentives, the best AI solution in the world will sit in a corner, unused.
+Without proper onboarding, adoption, and incentives, the best AI solution in the world will sit in a corner, unused. McKinsey's AI research points to the same pattern: value comes when organisations [embed AI into workflows, train people by role, and track adoption properly](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-how-organizations-are-rewiring-to-capture-value).
 
 The technology isn't the challenge. Behaviour change is.
 
@@ -46,7 +46,7 @@ The technology isn't the challenge. Behaviour change is.
 
 In reality, implementing AI properly requires significant work that has nothing to do with the technology itself.
 
-You need to audit your data. Often it's messier than you think. You need to set up integrations with your existing systems. That takes longer than expected. You need to establish governance. Who checks the AI's output? How do you handle errors? What happens when the model makes a mistake that costs you money?
+You need to audit your data. Often it's messier than you think. You need to set up integrations with your existing systems. That takes longer than expected. You need to establish governance. The [ICO's AI and data protection guidance](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/) is a useful reminder that these are business controls, not technical nice-to-haves. Who checks the AI's output? How do you handle errors? What happens when the model makes a mistake that costs you money?
 
 These aren't technical problems. They're operational problems. And they take time.
 
@@ -76,7 +76,7 @@ Your AI project launches. Months pass. You ask yourself: is this actually workin
 
 And you realise you don't have a clear answer.
 
-Because you never defined what "working" actually means. Are you measuring time saved? Error reduction? Customer satisfaction? Revenue impact? All of the above?
+Because you never defined what "working" actually means. Are you measuring time saved? Error reduction? Customer satisfaction? Revenue impact? All of the above? This is also why we recommend reading [why off-the-shelf AI often fails to fit](/blog/post.html?slug=post-4) before assuming the first demo tells the whole story.
 
 Without metrics, you can't tell if the project succeeded. You can't optimise it. You can't build the business case for the next project. And you can't explain to your leadership why they should keep investing.
 

@@ -2,7 +2,7 @@ There's a quiet revolution happening in professional services right now.
 
 It's not being shouted about. It's not making headlines. But in legal firms, financial consultancies, and professional advisory businesses, it's changing everything.
 
-These organisations are building internal AI knowledge bases. Intelligent systems that hold the accumulated wisdom of their business, accessible instantly by any team member.
+These organisations are building internal AI knowledge bases. Intelligent systems that hold the accumulated wisdom of their business, accessible instantly by any team member. In professional services specifically, [Thomson Reuters' 2025 generative AI report](https://www.thomsonreuters.com/en/reports/2025-generative-ai-in-professional-services-report) shows why legal, tax, accounting, audit, risk, and government teams are taking this seriously.
 
 And it's creating a stunning competitive advantage.
 
@@ -48,7 +48,7 @@ And your client delivery becomes more consistent. Every client gets your proven 
 
 Here's the market context you need to understand.
 
-Your clients are under pressure. Cost pressures, regulatory pressure, competitive pressure. They want faster, better, cheaper. And they're comparing you to competitors who are just as capable, just as experienced, but faster.
+Your clients are under pressure. Cost pressures, regulatory pressure, competitive pressure. They want faster, better, cheaper. And they're comparing you to competitors who are just as capable, just as experienced, but faster. The UK Government's [AI Opportunities Action Plan](https://www.gov.uk/government/publications/ai-opportunities-action-plan/ai-opportunities-action-plan) makes the same point at national level: AI adoption is now tied directly to productivity and service performance.
 
 The difference between winning business and losing it is increasingly about speed and efficiency. Can you deliver insight faster than the other firm they're considering?
 
@@ -62,13 +62,13 @@ An AI knowledge base solves both problems simultaneously. You move faster. You d
 
 Here's the frustrating reality. Enterprise professional services firms are already building these systems. But they're doing it with million-pound budgets. Custom-built systems. Dedicated data teams.
 
-In the SME market, there's almost no one offering AI knowledge bases at a price that makes sense.
+In the SME market, there's almost no one offering AI knowledge bases at a price that makes sense, even as [enterprise AI search is shifting from simple retrieval to synthesis](https://www.gartner.com/en/documents/6952766).
 
 But this is where the opportunity is. Your firm doesn't need enterprise-grade complexity. You need something that actually works, costs a reasonable amount, and is simple enough that your team will actually use it.
 
 This is the gap in the market. And it's a big one.
 
-A law firm with 15 people would benefit enormously from an AI knowledge base. So would a mortgage broker. So would a management consultancy. But they can't justify a £50,000 implementation, and they can't find anyone to build one properly at a smaller scale.
+A law firm with 15 people would benefit enormously from an AI knowledge base. So would a mortgage broker. So would a management consultancy. But they can't justify a £50,000 implementation, and they can't find anyone to build one properly at a smaller scale. For many firms, that is exactly where [tailored AI beats off-the-shelf software](/blog/post.html?slug=post-4).
 
 Until now, this has been a luxury for large firms only.
 

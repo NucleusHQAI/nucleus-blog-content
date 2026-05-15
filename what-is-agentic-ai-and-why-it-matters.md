@@ -1,4 +1,4 @@
-The term "agentic AI" is everywhere right now. Anthropic launched a small business package built around it this week. OpenAI launched a new deployment company to accelerate it. But most of the coverage is written for developers, not for the business owner trying to work out whether any of this actually matters to them.
+The term "agentic AI" is everywhere right now. [Anthropic launched a small business package built around it this week](https://www.anthropic.com/news/claude-for-small-business), and [OpenAI launched a new deployment company to accelerate it](https://openai.com/index/openai-launches-the-deployment-company/). But most of the coverage is written for developers, not for the business owner trying to work out whether any of this actually matters to them.
 
 It does. Here is what agentic AI actually is, and why this week's announcements deserve your attention.
 
@@ -16,17 +16,17 @@ Here is a concrete example. A consultancy firm receives a client enquiry by emai
 
 With an agentic workflow, the same enquiry triggers a system that reads the email, checks whether the sender is already in the CRM, logs them if not, drafts a personalised response based on what they asked, and flags it for a human to approve before anything gets sent. The human is still in control. They spend thirty seconds approving instead of fifteen minutes doing.
 
-That is not science fiction. It is exactly what Anthropic's Claude for Small Business, launched on 13 May, is built to deliver, with ready-made workflows covering invoice chasing, payroll planning, and client onboarding.
+That is not science fiction. It is exactly what [Anthropic's Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business), launched on 13 May 2026, is built to deliver, with ready-made workflows covering invoice chasing, payroll planning, and client onboarding.
 
 ## Why This Week Is Significant
 
-On 13 May, Anthropic released a package of 15 agentic workflows specifically for small businesses, connecting directly to tools like QuickBooks, HubSpot, Google Workspace, and Slack. The same week, OpenAI launched a dedicated Deployment Company to accelerate enterprise adoption of agentic systems.
+On 13 May 2026, Anthropic released a package of 15 agentic workflows specifically for small businesses, connecting directly to tools like QuickBooks, HubSpot, Google Workspace, and Slack. Two days earlier, OpenAI launched a dedicated Deployment Company to accelerate enterprise adoption of agentic systems.
 
 This is not incremental progress. The major AI labs are now in direct competition to bring agentic capability to everyday business operations, at a price point that works for businesses of all sizes. The technology has moved from research labs to something you can connect to your existing software stack this week.
 
 ## What It Means for Your Business
 
-If you run a small team, the implications are significant. Agentic AI does not replace your people. It changes what you need them for. Repetitive, multi-step administrative tasks that currently consume hours of skilled time are exactly what agents are designed to handle. That frees your team for work that actually requires judgment, relationships, and expertise.
+If you run a small team, the implications are significant. Agentic AI does not replace your people. It changes what you need them for. Microsoft's 2025 Work Trend Index describes this shift as the rise of the ["agent boss"](https://blogs.microsoft.com/blog/2025/04/23/the-2025-annual-work-trend-index-the-frontier-firm-is-born/): people who delegate to and manage AI agents. Repetitive, multi-step administrative tasks that currently consume hours of skilled time are exactly what agents are designed to handle. That frees your team for work that actually requires judgment, relationships, and expertise.
 
 The businesses that will benefit most are not necessarily the largest. A 15-person professional services firm with clear processes and good data is often better placed to implement agentic workflows than a 500-person enterprise weighed down by legacy systems.
 
@@ -34,7 +34,7 @@ The businesses that will struggle are those that wait until the technology feels
 
 ## Where to Start
 
-The temptation is to jump straight to implementation. But the most common mistake is deploying agents onto unclear or inconsistent processes. An agent that automates a broken workflow just produces broken results faster.
+The temptation is to jump straight to implementation. But the most common mistake is deploying agents onto unclear or inconsistent processes. An agent that automates a broken workflow just produces broken results faster, which is one of the reasons [AI projects fail in SMEs](/blog/post.html?slug=post-2).
 
 The right starting point is identifying two or three processes in your business that are:
 

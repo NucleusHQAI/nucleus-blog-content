@@ -1,4 +1,4 @@
-The numbers tell a stark story. In 2026, 35% of UK SMEs have adopted some form of AI. But here's the uncomfortable truth: 33% have no AI plans whatsoever.
+The numbers tell a stark story. In 2026, [35% of UK SMEs had adopted some form of AI, while 33% had no AI plans whatsoever](https://www.britishchambers.org.uk/news/2025/09/turning-point-as-more-smes-unlock-ai/).
 
 That's not caution. That's not prudence. That's being left behind.
 
@@ -20,7 +20,7 @@ But here's what's worse than falling behind on productivity. It's the regulatory
 
 Cost is climbing. Clients expect faster turnarounds. Regulatory deadlines are tightening. Market competition is intensifying. And all of this is happening right now, in 2026.
 
-The SMEs that move first aren't just solving today's problem. They're building capability that compounds over time. Their teams get better at using AI tools. Their processes improve. Their institutional knowledge gets captured and made accessible.
+The SMEs that move first aren't just solving today's problem. They're building capability that compounds over time. Their teams get better at using AI tools. Their processes improve. Their institutional knowledge gets captured and made accessible, which is why [later BCC research showing AI use rising to 54% of UK firms](https://www.britishchambers.org.uk/news/2026/03/half-of-smes-using-ai-with-limited-headcount-impact-so-far/) matters.
 
 The SMEs that wait? They're not just falling behind on productivity. They're falling behind on capability. And in professional services, capability gaps are expensive to close.
 
@@ -44,7 +44,7 @@ If a professional services SME has 10 people billing client time, and AI could s
 
 But it's not just about recovered hours. It's about the clients you turn away because you're at capacity. It's about the quality issues that emerge because your team is too stretched. It's about the talented people who leave because the work is too repetitive.
 
-Do nothing for a year, and you've essentially left £100,000+ on the table.
+Do nothing for a year, and you've essentially left £100,000+ on the table. That is the same commercial logic behind [the cost of AI inaction](/blog/post.html?slug=cost-of-ai-inaction-2026): the gap compounds quietly before it becomes obvious.
 
 The math for staying paralysed is brutal.
 
