@@ -1,41 +1,39 @@
 {
   "queue": [
     {
-      "date": "15 May 2026",
-      "slug": "cost-of-ai-inaction-2026",
-      "title": "The Real Cost of Doing Nothing: What AI Inaction Is Worth in Pounds in 2026",
-      "excerpt": "Businesses using AI are saving an average of £4,100 a month against a tool spend of £120. If your competitors are in that group and you are not, the numbers are not in your favour.",
-      "readTime": "4 min read",
-      "published": true
-    },
-    {
-      "date": "16 May 2026",
-      "slug": "staff-using-ai-shadow-risk",
-      "title": "Your Staff Are Using AI Without Telling You. Here Is Why That Is a Problem.",
-      "excerpt": "Most staff who use AI personally also use it at work without disclosing it. Here is what that means for your business and your data compliance.",
-      "readTime": "5 min read",
-      "published": true
+      "date": "18 May 2026",
+      "slug": "gdpr-risk-team-ai-habits",
+      "title": "The GDPR Risk Nobody Is Talking About: Your Team's AI Habits",
+      "excerpt": "Someone on your team is probably copying client data into ChatGPT to save time. Here is why that might be your next data breach, and what to do about it.",
+      "readTime": "4 min read"
     },
     {
       "date": "19 May 2026",
-      "slug": "uk-data-law-ai-tools",
-      "title": "The New UK Data Law and What It Means for the AI Tools in Your Business",
-      "excerpt": "The Data (Use and Access) Act 2025 has changed what is expected of businesses using AI tools. Most SME owners have not heard of it yet.",
-      "readTime": "5 min read"
+      "slug": "uk-ai-skills-shortage-sme-solution",
+      "title": "62% of UK Businesses Cannot Find Anyone Who Understands AI. Here Is Why That Is Your Problem Too.",
+      "excerpt": "Nearly two thirds of UK organisations face a critical AI skills shortage. For SMEs who cannot afford a full-time AI expert, the consultancy model is the practical answer.",
+      "readTime": "4 min read"
     },
     {
       "date": "20 May 2026",
-      "slug": "uk-businesses-ai-automation-gap",
-      "title": "Over Half of UK Businesses Use AI. Only 11% Have Automated Anything.",
-      "excerpt": "Over half of UK businesses say they use AI. Only 11% have automated anything. The gap between dabbling and doing has a real cost.",
+      "slug": "criminals-using-ai-target-business",
+      "title": "Criminals Are Using AI to Target Your Business. Here Is What They Know About You.",
+      "excerpt": "AI has made cyberattacks cheaper, faster, and far more convincing. SMEs are the fastest-growing target group, and the data criminals already have on you may surprise you.",
       "readTime": "4 min read"
     },
     {
       "date": "21 May 2026",
-      "slug": "why-ai-tools-take-three-months",
-      "title": "Why AI Tools Stop Being Used After Three Weeks (And How to Fix It)",
-      "excerpt": "The pattern is consistent: enthusiasm, early wins, then quiet abandonment by week three. It is not the tool — it is a structural implementation problem.",
-      "readTime": "5 min read"
+      "slug": "your-data-is-the-problem-not-your-ai-tool",
+      "title": "Your Data Is the Problem. Not Your AI Tool.",
+      "excerpt": "Most SMEs who try AI and get poor results blame the technology. Usually the real issue is the fragmented, outdated data sitting behind it.",
+      "readTime": "4 min read"
+    },
+    {
+      "date": "22 May 2026",
+      "slug": "uk-smes-saving-5-hours-a-week-with-ai",
+      "title": "UK SMEs Using AI Are Saving 5 Hours a Week. Here Is Where That Time Is Coming From.",
+      "excerpt": "New research shows UK small businesses using AI save an average of 5.2 hours per week. Here is exactly which tasks are generating those savings and how to get the same result.",
+      "readTime": "4 min read"
     }
   ]
 }
