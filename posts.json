@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "gdpr-risk-team-ai-habits",
+      "title": "The GDPR Risk Nobody Is Talking About: Your Team's AI Habits",
+      "date": "18 May 2026",
+      "readTime": "4 min read",
+      "excerpt": "Someone on your team is probably copying client data into ChatGPT to save time. Here is why that might be your next data breach, and what to do about it.",
+      "url": "/blog/post.html?slug=gdpr-risk-team-ai-habits"
+    },
+    {
       "slug": "staff-using-ai-shadow-risk",
       "title": "Your Staff Are Using AI Without Telling You. Here Is Why That Is a Problem.",
       "date": "16 May 2026",
