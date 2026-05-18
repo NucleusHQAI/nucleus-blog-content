@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "staff-using-ai-shadow-risk",
+      "title": "Your Staff Are Using AI Without Telling You. Here Is Why That Is a Problem.",
+      "date": "16 May 2026",
+      "readTime": "5 min read",
+      "excerpt": "Most staff who use AI personally also use it at work without disclosing it. Here is what that means for your business and your data compliance.",
+      "url": "/blog/post.html?slug=staff-using-ai-shadow-risk"
+    },
+    {
       "slug": "cost-of-ai-inaction-2026",
       "title": "The Real Cost of Doing Nothing: What AI Inaction Is Worth in Pounds in 2026",
       "date": "15 May 2026",
