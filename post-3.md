@@ -68,7 +68,7 @@ But this is where the opportunity is. Your firm doesn't need enterprise-grade co
 
 This is the gap in the market. And it's a big one.
 
-A law firm with 15 people would benefit enormously from an AI knowledge base. So would a mortgage broker. So would a management consultancy. But they can't justify a £50,000 implementation, and they can't find anyone to build one properly at a smaller scale. For many firms, that is exactly where [tailored AI beats off-the-shelf software](/blog/post.html?slug=post-4).
+A law firm with 15 people would benefit enormously from an AI knowledge base. So would a mortgage broker. So would a management consultancy. But they can't justify a £50,000 implementation, and they can't find anyone to build one properly at a smaller scale. For many firms, that is exactly where [tailored AI beats off-the-shelf software](/blog/post.html?post=post-4).
 
 Until now, this has been a luxury for large firms only.
 

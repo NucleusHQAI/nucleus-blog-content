@@ -34,7 +34,7 @@ The businesses that will struggle are those that wait until the technology feels
 
 ## Where to Start
 
-The temptation is to jump straight to implementation. But the most common mistake is deploying agents onto unclear or inconsistent processes. An agent that automates a broken workflow just produces broken results faster, which is one of the reasons [AI projects fail in SMEs](/blog/post.html?slug=post-2).
+The temptation is to jump straight to implementation. But the most common mistake is deploying agents onto unclear or inconsistent processes. An agent that automates a broken workflow just produces broken results faster, which is one of the reasons [AI projects fail in SMEs](/blog/post.html?post=post-2).
 
 The right starting point is identifying two or three processes in your business that are:
 

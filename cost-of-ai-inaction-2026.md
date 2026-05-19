@@ -35,7 +35,7 @@ For a business with four or five members of staff, even a modest productivity im
 
 Beyond the productivity and cost arguments, there is a subtler risk that does not get talked about enough.
 
-Clients and customers are increasingly interacting with businesses that use AI well. Response times are faster. Communications are more consistent. Follow-up happens without anyone needing to remember to do it. As these become the norm in certain sectors, businesses that cannot match them start to feel slower and less responsive, even if the underlying quality of their work is identical. For more on that operational shift, see [what agentic AI means for small businesses](/blog/post.html?slug=what-is-agentic-ai-and-why-it-matters).
+Clients and customers are increasingly interacting with businesses that use AI well. Response times are faster. Communications are more consistent. Follow-up happens without anyone needing to remember to do it. As these become the norm in certain sectors, businesses that cannot match them start to feel slower and less responsive, even if the underlying quality of their work is identical. For more on that operational shift, see [what agentic AI means for small businesses](/blog/post.html?post=what-is-agentic-ai-and-why-it-matters).
 
 This expectation gap does not cause businesses to fail overnight. It causes them to lose deals at the margin, retain slightly fewer clients, and win slightly fewer referrals. Over time, that adds up to something significant.
 
