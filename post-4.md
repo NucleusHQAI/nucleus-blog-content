@@ -10,7 +10,7 @@ The vendors know this. Which is why the marketing gets louder every year, the pr
 
 ## What Actually Works
 
-The businesses getting real value from AI aren't necessarily using the flashiest tools. They're using focused solutions that fit the way they already work. That is especially true for [agentic AI workflows](/blog/post.html?slug=what-is-agentic-ai-and-why-it-matters), where context, permissions, and process design matter more than the demo.
+The businesses getting real value from AI aren't necessarily using the flashiest tools. They're using focused solutions that fit the way they already work. That is especially true for [agentic AI workflows](/blog/post.html?post=what-is-agentic-ai-and-why-it-matters), where context, permissions, and process design matter more than the demo.
 
 That might be a simple automated workflow that removes two hours of admin from someone's week. It might be a process that pulls data from three different places and puts it somewhere useful, automatically. It might be a custom assistant that knows your terminology, your products, and your way of doing things.
 
@@ -20,7 +20,7 @@ None of these require an enterprise licence or a six-figure implementation budge
 
 When a tool doesn't deliver, the damage isn't just the subscription fee. It's the time your team spent trying to make it work. It's the goodwill lost when staff feel like they're being asked to adopt another system that solves a problem they didn't have. It's the scepticism that builds up around AI in general, making the next conversation harder.
 
-A tailored approach costs more to design upfront, but it gets used. And something that gets used delivers a return. Something that sits idle just costs money. That is also why [most AI project failures are process failures](/blog/post.html?slug=post-2), not model failures.
+A tailored approach costs more to design upfront, but it gets used. And something that gets used delivers a return. Something that sits idle just costs money. That is also why [most AI project failures are process failures](/blog/post.html?post=post-2), not model failures.
 
 ## What "Tailored" Actually Means
 

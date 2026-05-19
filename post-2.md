@@ -76,7 +76,7 @@ Your AI project launches. Months pass. You ask yourself: is this actually workin
 
 And you realise you don't have a clear answer.
 
-Because you never defined what "working" actually means. Are you measuring time saved? Error reduction? Customer satisfaction? Revenue impact? All of the above? This is also why we recommend reading [why off-the-shelf AI often fails to fit](/blog/post.html?slug=post-4) before assuming the first demo tells the whole story.
+Because you never defined what "working" actually means. Are you measuring time saved? Error reduction? Customer satisfaction? Revenue impact? All of the above? This is also why we recommend reading [why off-the-shelf AI often fails to fit](/blog/post.html?post=post-4) before assuming the first demo tells the whole story.
 
 Without metrics, you can't tell if the project succeeded. You can't optimise it. You can't build the business case for the next project. And you can't explain to your leadership why they should keep investing.
 
