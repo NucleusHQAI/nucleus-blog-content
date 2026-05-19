@@ -22,9 +22,9 @@ Local checkout paths:
 
 `blog/index.html` fetches `posts.json` from the content repo and renders a card grid dynamically. Each card shows the post title, date, read time, and excerpt.
 
-### Individual posts (`/blog/post.html?slug=<slug>`)
+### Individual posts (`/blog/post.html?post=<slug>`)
 
-`blog/post.html` is a single dynamic template. It reads the `?slug=` query parameter, then fetches two things in parallel:
+`blog/post.html` is a single dynamic template. It reads the `?post=` query parameter, then fetches two things in parallel:
 
 1. `posts.json` — to get the post's title, date, read time, and excerpt (used for the page `<title>`, `<meta>`, and header).
 2. `<slug>.md` — the Markdown file for the post body, rendered via [marked.js](https://marked.js.org/).
@@ -54,7 +54,7 @@ nucleus-blog-content/
       "date":     "14 May 2026",
       "readTime": "5 min read",
       "excerpt":  "One or two sentences summarising the post for the card and meta description.",
-      "url":      "/blog/post.html?slug=my-first-post"
+      "url":      "/blog/post.html?post=my-first-post"
     }
   ]
 }
@@ -69,7 +69,7 @@ nucleus-blog-content/
 | `date` | Yes | Human-readable, e.g. `"14 May 2026"`. No strict format enforced. |
 | `readTime` | Yes | E.g. `"4 min read"`. Estimate manually or use ~200 words/min. |
 | `excerpt` | Yes | Shown on the card and in `<meta name="description">`. Keep under 160 characters. |
-| `url` | Yes | Always `/blog/post.html?slug=<slug>`. |
+| `url` | Yes | Always `/blog/post.html?post=<slug>`. |
 
 Posts are displayed in the order they appear in the array. Put the newest post **first**.
 
@@ -104,7 +104,7 @@ Add a new entry to the **top** of the `posts` array:
   "date":     "14 May 2026",
   "readTime": "4 min read",
   "excerpt":  "Short summary for the card and meta description.",
-  "url":      "/blog/post.html?slug=your-slug-here"
+  "url":      "/blog/post.html?post=your-slug-here"
 }
 ```
 
@@ -148,8 +148,8 @@ The original `post-1`, `post-2`, and `post-3` articles now use the same Markdown
 - [ ] Markdown file created in `nucleus-blog-content` with a clear kebab-case slug
 - [ ] Entry added to the **top** of `posts.json`
 - [ ] `slug` in `posts.json` matches the `.md` filename exactly
-- [ ] `url` field is `/blog/post.html?slug=<slug>`
+- [ ] `url` field is `/blog/post.html?post=<slug>`
 - [ ] `excerpt` is under 160 characters
 - [ ] Both files committed and pushed to `main` in `nucleus-blog-content`
-- [ ] Visit `/blog/post.html?slug=<slug>` to verify the post loads correctly
+- [ ] Visit `/blog/post.html?post=<slug>` to verify the post loads correctly
 - [ ] Visit `/blog/` to verify the new card appears at the top of the grid

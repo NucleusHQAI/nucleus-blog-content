@@ -6,7 +6,7 @@
       "date": "19 May 2026",
       "readTime": "4 min read",
       "excerpt": "Nearly two thirds of UK organisations face a critical AI skills shortage. For SMEs who cannot afford a full-time AI expert, the consultancy model is the practical answer.",
-      "url": "/blog/post.html?slug=uk-ai-skills-shortage-sme-solution"
+      "url": "/blog/post.html?post=uk-ai-skills-shortage-sme-solution"
     },
     {
       "slug": "gdpr-risk-team-ai-habits",
@@ -14,7 +14,7 @@
       "date": "18 May 2026",
       "readTime": "4 min read",
       "excerpt": "Someone on your team is probably copying client data into ChatGPT to save time. Here is why that might be your next data breach, and what to do about it.",
-      "url": "/blog/post.html?slug=gdpr-risk-team-ai-habits"
+      "url": "/blog/post.html?post=gdpr-risk-team-ai-habits"
     },
     {
       "slug": "staff-using-ai-shadow-risk",
@@ -22,7 +22,7 @@
       "date": "16 May 2026",
       "readTime": "5 min read",
       "excerpt": "Most staff who use AI personally also use it at work without disclosing it. Here is what that means for your business and your data compliance.",
-      "url": "/blog/post.html?slug=staff-using-ai-shadow-risk"
+      "url": "/blog/post.html?post=staff-using-ai-shadow-risk"
     },
     {
       "slug": "cost-of-ai-inaction-2026",
@@ -30,7 +30,7 @@
       "date": "15 May 2026",
       "readTime": "4 min read",
       "excerpt": "Businesses using AI are saving an average of £4,100 a month against a tool spend of £120. If your competitors are in that group and you are not, the numbers are not in your favour.",
-      "url": "/blog/post.html?slug=cost-of-ai-inaction-2026"
+      "url": "/blog/post.html?post=cost-of-ai-inaction-2026"
     },
     {
       "slug": "what-is-agentic-ai-and-why-it-matters",
@@ -38,7 +38,7 @@
       "date": "14 May 2026",
       "readTime": "4 min read",
       "excerpt": "Agentic AI is dominating the headlines. Here is what it actually means for your business, in plain English.",
-      "url": "/blog/post.html?slug=what-is-agentic-ai-and-why-it-matters"
+      "url": "/blog/post.html?post=what-is-agentic-ai-and-why-it-matters"
     },
     {
       "slug": "post-4",
@@ -46,7 +46,7 @@
       "date": "13 May 2026",
       "readTime": "5 min read",
       "excerpt": "Generic AI tools look impressive in demos but end up expensive and barely used. The businesses getting real value aren't using the flashiest tools — they're using focused solutions that fit the way they already work.",
-      "url": "post.html?slug=post-4"
+      "url": "post.html?post=post-4"
     },
     {
       "slug": "post-1",
@@ -54,7 +54,7 @@
       "date": "18 April 2026",
       "readTime": "6 min read",
       "excerpt": "In 2026, 35% of UK SMEs have adopted AI. But 33% have no plans whatsoever. This isn't caution, it's being left behind. Here's what inaction is actually costing you right now.",
-      "url": "/blog/post.html?slug=post-1"
+      "url": "/blog/post.html?post=post-1"
     },
     {
       "slug": "post-2",
@@ -62,7 +62,7 @@
       "date": "17 April 2026",
       "readTime": "7 min read",
       "excerpt": "A team gets excited. They invest time and money. And then nothing happens. The tool sits unused. Here's why, and more importantly, how to avoid it.",
-      "url": "/blog/post.html?slug=post-2"
+      "url": "/blog/post.html?post=post-2"
     },
     {
       "slug": "post-3",
@@ -70,7 +70,7 @@
       "date": "16 April 2026",
       "readTime": "8 min read",
       "excerpt": "Enterprise firms are building them. But they're missing the SME opportunity. Here's what an AI knowledge base actually does, and why the window to act is now.",
-      "url": "/blog/post.html?slug=post-3"
+      "url": "/blog/post.html?post=post-3"
     }
   ]
 }

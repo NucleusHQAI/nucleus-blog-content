@@ -30,7 +30,7 @@ Add a new entry at the **top** of the `"posts"` array:
   "date": "<date e.g. 19 May 2026>",
   "readTime": "<readTime>",
   "excerpt": "<excerpt>",
-  "url": "/blog/post.html?slug=<slug>"
+  "url": "/blog/post.html?post=<slug>"
 }
 ```
 
