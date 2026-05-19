@@ -44,7 +44,7 @@ If a professional services SME has 10 people billing client time, and AI could s
 
 But it's not just about recovered hours. It's about the clients you turn away because you're at capacity. It's about the quality issues that emerge because your team is too stretched. It's about the talented people who leave because the work is too repetitive.
 
-Do nothing for a year, and you've essentially left £100,000+ on the table. That is the same commercial logic behind [the cost of AI inaction](/blog/post.html?slug=cost-of-ai-inaction-2026): the gap compounds quietly before it becomes obvious.
+Do nothing for a year, and you've essentially left £100,000+ on the table. That is the same commercial logic behind [the cost of AI inaction](/blog/post.html?post=cost-of-ai-inaction-2026): the gap compounds quietly before it becomes obvious.
 
 The math for staying paralysed is brutal.
 
