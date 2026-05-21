@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "your-data-is-the-problem-not-your-ai-tool",
+      "title": "Your Data Is the Problem. Not Your AI Tool.",
+      "date": "21 May 2026",
+      "readTime": "4 min read",
+      "excerpt": "Most SMEs who try AI and get poor results blame the technology. Usually the real issue is the fragmented, outdated data sitting behind it.",
+      "url": "/blog/post.html?post=your-data-is-the-problem-not-your-ai-tool"
+    },
+    {
       "slug": "criminals-using-ai-target-business",
       "title": "Criminals Are Using AI to Target Your Business. Here Is What They Know About You.",
       "date": "20 May 2026",
