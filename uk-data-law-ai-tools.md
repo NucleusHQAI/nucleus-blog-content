@@ -1,14 +1,14 @@
-The UK's Data (Use and Access) Act 2025 received Royal Assent earlier this year. Most small business owners have not heard of it. Many of those who have heard of it assume it does not apply to them. Both assumptions are worth revisiting.
+The [UK's Data (Use and Access) Act 2025](https://www.gov.uk/government/collections/the-data-use-and-access-bill) received Royal Assent earlier this year. Most small business owners have not heard of it. Many of those who have heard of it assume it does not apply to them. Both assumptions are worth revisiting.
 
 If your business uses AI tools that process customer data, staff data, or any personal information, this legislation changes what is expected of you. The rules are not theoretical. They come with accountability requirements, and the ICO has been explicit that AI governance is a priority enforcement area.
 
 ## What the Act Actually Does
 
-The Data (Use and Access) Act 2025 builds on the foundations of UK GDPR but extends the rules around how automated decision-making and AI processing can be used with personal data. The key changes that matter for most small businesses:
+The Data (Use and Access) Act 2025 builds on the foundations of [UK GDPR](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/) but extends the rules around how automated decision-making and AI processing can be used with personal data. The key changes that matter for most small businesses:
 
 **Automated decisions carry stricter accountability requirements.** If an AI tool is making or significantly influencing decisions that affect individuals, such as flagging customer risk, filtering job applications, or personalising communications, you now need to be able to explain and document how those decisions are being made.
 
-**Data residency has increased significance.** The Act reinforces expectations around where personal data is processed and stored. Using a US-based AI tool that handles customer data on American servers is no longer a grey area. It carries explicit compliance implications.
+**Data residency has increased significance.** The Act reinforces expectations around where personal data is processed and stored. Using a US-based AI tool that handles customer data on American servers is no longer a grey area. It carries explicit compliance implications under the ICO's [guidance on international transfers](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/).
 
 **Consent and transparency obligations are tighter.** Using AI to process customer data for purposes beyond what was originally stated when the data was collected requires clear justification, and in many cases renewed consent.
 
@@ -35,7 +35,7 @@ The AI Readiness Assessment includes a review of the tools your business current
 
 ## Why This Matters More Than It Did Twelve Months Ago
 
-The ICO has stated publicly that AI governance is a priority enforcement area for the next two years. Small businesses are not exempt from this scrutiny. The Act provides a clearer legal framework, which means complaints and investigations now have sharper teeth.
+The [ICO](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/) has stated publicly that AI governance is a priority enforcement area for the next two years. Small businesses are not exempt from this scrutiny. The Act provides a clearer legal framework, which means complaints and investigations now have sharper teeth.
 
 The businesses that will navigate this well are not necessarily the ones with the largest legal teams. They are the ones that took the time to understand what tools they are using, what data those tools handle, and what agreements are in place. That is genuinely achievable for most SMEs without significant cost or overhead.
 

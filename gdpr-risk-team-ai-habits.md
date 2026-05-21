@@ -10,13 +10,13 @@ Shadow AI is the term for AI tools your staff are using without your knowledge o
 
 The problem is that AI tools are not Google. When someone pastes a client's name, address, financial details, or medical information into a third-party AI platform, that data is leaving your controlled environment. Where it goes next depends entirely on the platform's data processing terms, which most people have never read.
 
-Under UK GDPR, you are responsible for what happens to personal data you hold. That responsibility does not pause because a member of staff used a convenient tool without realising the implications.
+Under [UK GDPR](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/), you are responsible for what happens to personal data you hold. That responsibility does not pause because a member of staff used a convenient tool without realising the implications.
 
 ## Why This Is Getting Harder to Ignore
 
-The scale of AI adoption has accelerated faster than most businesses have been able to respond. A 2024 survey found that more than a third of UK employees are using AI tools for work tasks that their employers have not sanctioned. In professional services businesses, where client confidentiality is fundamental, that figure carries serious weight.
+The scale of AI adoption has accelerated faster than most businesses have been able to respond. [A 2024 survey](https://www.microsoft.com/en-us/worklab/work-trend-index) found that more than a third of UK employees are using AI tools for work tasks that their employers have not sanctioned. In professional services businesses, where client confidentiality is fundamental, that figure carries serious weight.
 
-The regulatory environment has not stood still either. The ICO has been increasingly explicit that AI-related data processing incidents will be scrutinised in the same way as any other breach. If client data ends up in an AI platform without a lawful basis and appropriate safeguards, the question of who knew what and when will matter.
+The regulatory environment has not stood still either. The [ICO](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/) has been increasingly explicit that AI-related data processing incidents will be scrutinised in the same way as any other breach. If client data ends up in an AI platform without a lawful basis and appropriate safeguards, the question of who knew what and when will matter.
 
 ## The Gap Between Policy and Practice
 

@@ -10,7 +10,7 @@ Until relatively recently, a sophisticated cyberattack required real technical s
 
 AI has commoditised most of that.
 
-Phishing emails written with AI assistance no longer contain the spelling errors and awkward phrasing that used to make them identifiable. Voice cloning technology means a call from a number that sounds like your accountant might not be your accountant. AI tools can scan publicly available data about your business, your staff, and your suppliers in minutes, then generate a personalised attack at a scale no human team could match.
+[Phishing emails](https://www.ncsc.gov.uk/guidance/phishing) written with AI assistance no longer contain the spelling errors and awkward phrasing that used to make them identifiable. Voice cloning technology means a call from a number that sounds like your accountant might not be your accountant. AI tools can scan publicly available data about your business, your staff, and your suppliers in minutes, then generate a personalised attack at a scale no human team could match.
 
 The cost of running these attacks has collapsed. The volume has increased accordingly.
 
@@ -26,7 +26,7 @@ The phrase used in security circles is that SMEs are "the soft underbelly of the
 
 This is the part that surprises most business owners. Before a targeted attack, criminals are likely to know more about your business than you might expect.
 
-Your website tells them who your clients are, what services you offer, and in many cases who works for you. LinkedIn provides your staff list, their job titles, their career histories, and the names of clients they mention in their activity. Companies House holds your registered details, your filed accounts, and your company structure. Job adverts reveal which software platforms you use. Press releases and case studies tell them who your largest relationships are.
+Your website tells them who your clients are, what services you offer, and in many cases who works for you. LinkedIn provides your staff list, their job titles, their career histories, and the names of clients they mention in their activity. [Companies House](https://www.companieshouse.gov.uk) holds your registered details, your filed accounts, and your company structure. Job adverts reveal which software platforms you use. Press releases and case studies tell them who your largest relationships are.
 
 None of this is hidden. It is the same information you publish to win business. But AI can aggregate and analyse it in minutes to build a profile that makes a targeted attack significantly more effective.
 
@@ -40,7 +40,7 @@ This is why Nucleus AI treats governance and risk as part of every engagement, n
 
 ## Practical Steps That Make a Difference
 
-You do not need a security team to meaningfully reduce your exposure. Some of the most effective measures are also the most straightforward: multi-factor authentication across all business systems, a clear policy on what data can go into AI tools and which platforms are approved for use, and staff who have been briefed specifically on current AI-powered social engineering techniques rather than just given a generic phishing awareness session.
+You do not need a security team to meaningfully reduce your exposure. The [NCSC's Small Business Guide](https://www.ncsc.gov.uk/collection/small-business-guide) covers the essentials, and some of the most effective measures are also the most straightforward: [multi-factor authentication](https://www.ncsc.gov.uk/guidance/multi-factor-authentication-online-services) across all business systems, a clear policy on what data can go into AI tools and which platforms are approved for use, and staff who have been briefed specifically on current AI-powered social engineering techniques rather than just given a generic phishing awareness session.
 
 The key is that these steps work better when they are part of a deliberate, structured approach rather than a collection of individual decisions made under pressure.
 

@@ -1,6 +1,6 @@
 ## A Shortage That Will Not Fix Itself
 
-A new report finds that nearly two thirds of UK organisations face a critical AI skills shortage. For large companies, the response is predictable: hire an AI director, build an internal team, run a recruitment campaign. For small business owners who cannot afford any of that, the question is more urgent. How do you close the gap when you cannot hire your way out of it?
+[A new report](https://www.gov.uk/government/publications/ai-opportunities-action-plan/ai-opportunities-action-plan) finds that nearly two thirds of UK organisations face a critical AI skills shortage. For large companies, the response is predictable: hire an AI director, build an internal team, run a recruitment campaign. For small business owners who cannot afford any of that, the question is more urgent. How do you close the gap when you cannot hire your way out of it?
 
 The answer matters more than most SME owners realise, because this is not a gap that will close slowly. The businesses that figure out how to access AI expertise without a full-time hire are the ones that will pull ahead in the next two years. The ones that wait for a more affordable moment may find the window has already passed.
 
@@ -8,7 +8,7 @@ The answer matters more than most SME owners realise, because this is not a gap 
 
 The AI skills gap in the UK is not simply about universities failing to produce enough graduates. The field has moved too quickly for formal education to keep pace. The tools that matter most to businesses right now did not exist in their current form two years ago. Even people with genuine AI expertise are often specialists in a narrow technical domain, not generalists who understand how AI applies to the day-to-day operations of a professional services firm or a retail business.
 
-The result is a market where demand for practical AI knowledge vastly outstrips supply, and where the people who do have that knowledge command salaries that put them out of reach for any business under a certain size.
+The result is a market where demand for practical AI knowledge vastly outstrips supply, and where the people who do have that knowledge command salaries that put them out of reach for any business under a certain size. [McKinsey's State of AI research](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) consistently identifies talent as one of the top barriers to AI adoption across organisations of all sizes.
 
 ## What This Means for SME Owners
 

@@ -8,7 +8,7 @@ Usually, the diagnosis is wrong. The tool is not the problem. The data sitting b
 
 AI tools are powerful, but they are not independent. They work with what you give them. When the information going in is incomplete, inconsistent, or scattered across a dozen different places, the output reflects that. The intelligence is only as good as the inputs.
 
-For most SMEs, the inputs are a mess. Not through any fault of the business owner, but because data management has never needed to be a priority before. Client records are spread across email threads, a spreadsheet someone built three years ago, and a CRM that was never quite configured correctly. Invoices are in one system, correspondence is in another, and the information that would actually be useful to an AI tool has never been consolidated in a form it can read.
+For most SMEs, the inputs are a mess. Not through any fault of the business owner, but because data management has never needed to be a priority before. The [ONS Business Insights Survey](https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/bulletins/businessinsightsandimpactontheukeconomy/2october2025) shows that even among UK businesses actively using AI, data quality remains the most commonly cited barrier to getting value from it. Client records are spread across email threads, a spreadsheet someone built three years ago, and a CRM that was never quite configured correctly. Invoices are in one system, correspondence is in another, and the information that would actually be useful to an AI tool has never been consolidated in a form it can read.
 
 This is the data debt that most businesses are carrying, and it is the main reason AI trials fail.
 
@@ -16,11 +16,11 @@ This is the data debt that most businesses are carrying, and it is the main reas
 
 ### Fragmented records
 
-Information about a single client or project lives in multiple places that have never been connected. A proposal is in Google Drive, the email thread is in Gmail, the invoice is in Xero, and the notes from the last three calls are in someone's notebook. An AI tool given any one of these has no context. Given all of them without structure, it cannot do much better.
+Information about a single client or project lives in multiple places that have never been connected. A proposal is in Google Drive, the email thread is in Gmail, the invoice is in [Xero](https://www.xero.com/uk/), and the notes from the last three calls are in someone's notebook. An AI tool given any one of these has no context. Given all of them without structure, it cannot do much better.
 
 ### Outdated information
 
-Databases that have not been cleaned in years contain contacts who have moved on, addresses that no longer exist, and relationship records that reflect how things were rather than how they are. An AI tool asked to work from this data will produce outputs that feel off, because they are built on information that no longer reflects reality.
+Databases that have not been cleaned in years contain contacts who have moved on, addresses that no longer exist, and relationship records that reflect how things were rather than how they are. An AI tool asked to work from this data will produce outputs that feel off, because they are built on information that no longer reflects reality. It is worth noting that [GDPR's accuracy principle](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/accuracy/) also requires personal data to be kept up to date, so a data clean-up serves compliance as well as AI readiness.
 
 ### Implicit knowledge
 

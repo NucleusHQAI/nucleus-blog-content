@@ -29,7 +29,7 @@ The businesses that reach this point did not get there by accident. They had a p
 
 ## The One Thing That Changes the Outcome
 
-The single biggest predictor of whether an AI implementation delivers lasting value is whether someone takes responsibility for the integration, not just the purchase.
+The single biggest predictor of whether an AI implementation delivers lasting value is whether someone takes responsibility for the integration, not just the purchase. [McKinsey's research on AI adoption](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) points to the same conclusion: organisations that assign ownership for AI workflow integration consistently outperform those that leave adoption to chance.
 
 This means:
 
@@ -42,7 +42,7 @@ In larger businesses this might be an internal project manager or a technology l
 
 ## The Middle Period Is Where Projects Die
 
-The period between initial deployment and embedded use is where most AI projects quietly collapse. Not dramatically, not with a formal decision to abandon the tool. They just fade. Usage becomes occasional, then rare, then the subscription is cancelled and the conclusion is that AI is "not quite there yet for us."
+The period between initial deployment and embedded use is where most AI projects quietly collapse — consistent with [Gartner's finding](https://www.gartner.com/en/articles/genai-project-failure) that the majority of generative AI proof-of-concept projects are abandoned before reaching sustained production use. Not dramatically, not with a formal decision to abandon the tool. They just fade. Usage becomes occasional, then rare, then the subscription is cancelled and the conclusion is that AI is "not quite there yet for us."
 
 That conclusion is almost never accurate. It reflects what happens when a capable tool meets a gap in implementation support.
 

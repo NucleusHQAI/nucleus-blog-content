@@ -1,4 +1,4 @@
-You almost certainly have employees using AI tools at work right now without telling anyone. This is not speculation. Research consistently shows that the majority of workers who use AI in their personal lives also use it professionally, and most do not disclose it to their employer.
+You almost certainly have employees using AI tools at work right now without telling anyone. This is not speculation. [Research consistently shows](https://blogs.microsoft.com/blog/2025/04/23/the-2025-annual-work-trend-index-the-frontier-firm-is-born/) that the majority of workers who use AI in their personal lives also use it professionally, and most do not disclose it to their employer.
 
 Some of what they are doing is genuinely useful. A member of your team might be using ChatGPT to draft client emails faster or summarise a long report before a meeting. That is a productivity gain your business is getting for free. The problem is that useful and compliant are not the same thing.
 
@@ -17,9 +17,9 @@ None of these people are acting with bad intentions. Most believe they are being
 
 ## Why This Is a GDPR Problem
 
-UK GDPR requires that personal data is processed lawfully, with appropriate safeguards, and only for the purposes it was originally collected for. Sending customer or candidate data to a consumer-grade AI tool with no enterprise data agreement almost certainly fails at least one of those tests.
+[UK GDPR](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/) requires that personal data is processed lawfully, with appropriate safeguards, and only for the purposes it was originally collected for. Sending customer or candidate data to a consumer-grade AI tool with no enterprise data agreement almost certainly fails at least one of those tests.
 
-The risk is not theoretical. If a data subject raises a complaint, or the ICO investigates, your business will be expected to account for how their data was handled. "We did not know an employee was doing that" is not a strong defence when the ICO is looking for evidence of governance.
+The risk is not theoretical. If a data subject raises a complaint, or the [ICO investigates](https://ico.org.uk/action-weve-taken/), your business will be expected to account for how their data was handled. "We did not know an employee was doing that" is not a strong defence when the ICO is looking for evidence of governance.
 
 The potential consequences range from informal undertakings to formal fines. More practically, a data issue caused by shadow AI use can damage client trust in a way that takes far longer to recover from than any regulatory penalty.
 

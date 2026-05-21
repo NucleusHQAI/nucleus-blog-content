@@ -1,4 +1,4 @@
-The headline figure sounds impressive. Over half of UK businesses now report using AI in some capacity. But pull back the curtain and the picture is a lot less flattering. Only around 11% have deployed AI in a way that genuinely automates something in their business. The rest, to put it plainly, are dabbling.
+The headline figure sounds impressive. [Over half of UK businesses](https://www.britishchambers.org.uk/news/2026/03/half-of-smes-using-ai-with-limited-headcount-impact-so-far/) now report using AI in some capacity. But pull back the curtain and the picture is a lot less flattering. Only around 11% have deployed AI in a way that genuinely automates something in their business. The rest, to put it plainly, are dabbling.
 
 That gap is not a rounding error. It is the difference between a productivity transformation and a subscription you cannot quite justify cancelling.
 
@@ -16,7 +16,7 @@ The pattern is consistent. A business signs up for a tool after a conference tal
 
 Six months later, the tool is technically still being paid for, but nobody is driving meaningful value from it.
 
-The reason is not the tool. The tools are, by and large, capable. The reason is that no one mapped the workflows first. There was no structured review of where the time actually goes, no decision about which processes were worth targeting, and no plan for embedding AI into routines that already exist. Buying access to AI is not the same as implementing it.
+The reason is not the tool. The tools are, by and large, capable. The reason is that no one mapped the workflows first. There was no structured review of where the time actually goes, no decision about which processes were worth targeting, and no plan for embedding AI into routines that already exist. Buying access to AI is not the same as implementing it. [McKinsey's research on AI adoption](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) draws exactly this distinction: value comes from embedding AI into workflows, not from access alone.
 
 ## What Genuine Automation Actually Looks Like
 
@@ -43,7 +43,7 @@ The AI Readiness Assessment exists precisely to close this gap. It starts with a
 
 Where there is a clear opportunity, the Workflow Build service takes it further. That means building the actual automation, testing it against real data, documenting how it works, and making sure your team can run it without needing a technical background.
 
-The 54% of UK businesses using AI deserve more than a tool they barely touch. Getting from dabbling to doing is more straightforward than most people expect. The main thing it requires is a clear starting point.
+The [54% of UK businesses](https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/bulletins/businessinsightsandimpactontheukeconomy/2october2025) using AI deserve more than a tool they barely touch. Getting from dabbling to doing is more straightforward than most people expect. The main thing it requires is a clear starting point.
 
 <div style="margin:40px 0;padding:28px 32px;background:#FEF9EE;border:1px solid rgba(217,119,6,0.25);border-radius:12px;">
   <p style="font-size:15px;color:#44403C;margin-bottom:16px;"><strong>Ready to explore what AI could do for your business?</strong> Book a free, no-pressure discovery call with the Nucleus team.</p>

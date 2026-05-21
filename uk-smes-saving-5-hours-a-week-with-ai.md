@@ -1,6 +1,6 @@
 ## The Number That Puts It in Perspective
 
-New research from OpenAI shows UK small businesses using AI are saving an average of 5.2 hours per week. That is over 250 hours a year. At a conservative billing rate of £50 per hour, that is £12,500 worth of working time recovered annually, per person.
+[New research from OpenAI](https://openai.com/global-affairs/) shows UK small businesses using AI are saving an average of 5.2 hours per week. That is over 250 hours a year. At a conservative billing rate of £50 per hour, that is £12,500 worth of working time recovered annually, per person.
 
 For an owner-managed business where every hour counts, that figure deserves more than a passing glance. It deserves a direct question: where exactly is that time coming from, and how do you get the same result?
 
@@ -8,7 +8,7 @@ For an owner-managed business where every hour counts, that figure deserves more
 
 The research does not leave this vague. The tasks generating the most time savings fall into a consistent set of categories across different business types.
 
-**Writing and communication** is by far the largest contributor. First drafts of emails, proposals, reports, client updates, and internal documents. Business owners and their staff consistently underestimate how much time goes into writing from scratch. AI reduces this from hours to minutes, and the quality, when the tool is used correctly, is good enough to send with light editing rather than a full rewrite.
+**Writing and communication** is by far the largest contributor. Microsoft's [2025 Work Trend Index](https://blogs.microsoft.com/blog/2025/04/23/the-2025-annual-work-trend-index-the-frontier-firm-is-born/) identifies writing assistance as the single most common AI use case across knowledge workers globally. First drafts of emails, proposals, reports, client updates, and internal documents. Business owners and their staff consistently underestimate how much time goes into writing from scratch. AI reduces this from hours to minutes, and the quality, when the tool is used correctly, is good enough to send with light editing rather than a full rewrite.
 
 **Summarisation and research** comes second. Reading a long document and extracting the key points. Pulling together background information on a client or topic before a meeting. Condensing a chain of emails into a single clear summary. These tasks feel minor individually, but they compound across a working week in ways most people do not track.
 
@@ -20,7 +20,7 @@ The research does not leave this vague. The tasks generating the most time savin
 
 The 5.2 hour figure is an average across businesses that are actively using AI. It is not the experience of businesses that have signed up to a tool and use it occasionally when they remember to.
 
-The gap between those two groups is almost entirely explained by how deliberately AI has been embedded into actual workflows.
+The gap between those two groups is almost entirely explained by how deliberately AI has been embedded into actual workflows. [McKinsey's State of AI research](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) identifies this as the defining characteristic of high-performing AI adopters.
 
 Businesses achieving meaningful time savings have done a few things consistently. They have identified specific, recurring tasks and built AI into the routine for those tasks. They have given their teams clear guidance on where to use it and what good usage looks like. And they have spent some time upfront learning how to write effective prompts for their particular type of work, rather than defaulting to vague requests and being disappointed by vague outputs.
 
