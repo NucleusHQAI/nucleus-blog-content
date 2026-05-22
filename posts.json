@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "uk-smes-saving-5-hours-a-week-with-ai",
+      "title": "UK SMEs Using AI Are Saving 5 Hours a Week. Here Is Where That Time Is Coming From.",
+      "date": "22 May 2026",
+      "readTime": "4 min read",
+      "excerpt": "New research shows UK small businesses using AI save an average of 5.2 hours per week. Here is exactly which tasks are generating those savings and how to get the same result.",
+      "url": "/blog/post.html?post=uk-smes-saving-5-hours-a-week-with-ai"
+    },
+    {
       "slug": "your-data-is-the-problem-not-your-ai-tool",
       "title": "Your Data Is the Problem. Not Your AI Tool.",
       "date": "21 May 2026",
