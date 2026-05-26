@@ -39,6 +39,30 @@
       "excerpt": "New research shows UK small businesses using AI save an average of 5.2 hours per week. Here is exactly which tasks are generating those savings and how to get the same result.",
       "readTime": "4 min read",
       "published": true
+    },
+    {
+      "date": "23 May 2026",
+      "slug": "uk-businesses-ai-automation-gap",
+      "title": "Over Half of UK Businesses Use AI. Only 11% Have Automated Anything.",
+      "excerpt": "Over half of UK businesses now say they use AI. But only around 11% have deployed it in a way that genuinely automates something. Here is what separates the two groups.",
+      "readTime": "4 min read",
+      "published": true
+    },
+    {
+      "date": "25 May 2026",
+      "slug": "uk-data-law-ai-tools",
+      "title": "The UK's New Data Law Is in Force. Here Is What It Means If You Use AI.",
+      "excerpt": "The UK's Data (Use and Access) Act 2025 is now law. Most small business owners have not heard of it. If your business uses AI tools that process personal data, here is what has changed and what it means for you.",
+      "readTime": "4 min read",
+      "published": true
+    },
+    {
+      "date": "26 May 2026",
+      "slug": "why-ai-tools-take-three-months",
+      "title": "Why Most AI Tools Get Abandoned After Three Weeks",
+      "excerpt": "Most AI implementations follow a predictable pattern: enthusiasm, a few quick wins, then a quiet fade. It is not the tool's fault and it is not your team's fault. Here is what actually goes wrong, and how to get through it.",
+      "readTime": "4 min read",
+      "published": true
     }
   ]
 }
